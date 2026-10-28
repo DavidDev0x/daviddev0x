@@ -61,12 +61,12 @@ Computer Science student and Backend Developer passionate about designing robust
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=daviddev0x&show_icons=true&theme=moonlight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviddev0x&layout=compact&theme=moonlight" alt="Top Languages" />
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=daviddev0x&show_icons=true&theme=material-palenight&include_all_commits=true" alt="GitHub Stats" />
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviddev0x&layout=compact&theme=material-palenight" alt="Top Languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=daviddev0x&theme=moonlight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=daviddev0x&theme=material-palenight" alt="GitHub Streak" />
 </div>
