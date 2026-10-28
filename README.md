@@ -4,7 +4,7 @@ Computer Science student and Backend Developer passionate about designing robust
 
 ---
 
-### 💫 About Me
+### About Me
 
 - 🎓 Computer Science undergraduate at Federal University of Sergipe (UFS)
 - ⚙️ Focusing on **Backend Architecture**, **RESTful APIs**, and **Database Modeling**
@@ -59,13 +59,6 @@ Computer Science student and Backend Developer passionate about designing robust
 ---
 
 ### 📊 GitHub Analytics
-
-<div align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=daviddev0x&show_icons=true&theme=material-palenight&include_all_commits=true" alt="GitHub Stats" />
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviddev0x&layout=compact&theme=material-palenight" alt="Top Languages" />
-</div>
-
-<br/>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=daviddev0x&theme=material-palenight" alt="GitHub Streak" />
